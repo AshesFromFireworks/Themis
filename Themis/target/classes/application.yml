@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: "ashes"
+    password: "mysql"
+    url: "jdbc:mysql://8.149.131.136:3306/themis?useUnicode=true&characterEncoding=utf8"
+#    url: "jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8"
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
